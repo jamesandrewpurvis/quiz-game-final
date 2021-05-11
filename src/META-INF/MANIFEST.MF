@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Main-Class: sample.Launcher
+Class-Path: mysql-connector-java-8.0.22.jar src.zip javafx-swt.jar javaf
+ x.web.jar javafx.base.jar javafx.fxml.jar javafx.media.jar javafx.swing
+ .jar javafx.controls.jar javafx.graphics.jar
+
